@@ -1,27 +1,2 @@
 
-{
- "kind": "webfonts#webfontList",
- "items": [
-  {
-   "kind": "webfonts#webfont",
-   "family": "Yesteryear",
-   "variants": [
-    "regular"
-   ],
-   "subsets": [
-    "latin"
-   ]
-  },
-  {
-   "kind": "webfonts#webfont",
-   "family": "Zeyada",
-   "variants": [
-    "regular"
-   ],
-   "subsets": [
-    "latin"
-   ]
-  }
-]
-}
-
+{"a":1,"b":2,"c":3,"d":4,"e":5}
