@@ -1,0 +1,11 @@
+<network>
+  <node name="edge1">
+    <community>something</community>
+    <loopback>172.16.254.10</loopback>
+  </node>
+  <node name="edge2">
+    <community>anotherthing</community>
+    <loopback>10.6.21.10</loopback>
+    <loopback>10.12.71.14</loopback>
+  </node>
+</network>
