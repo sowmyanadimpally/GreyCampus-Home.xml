@@ -1,0 +1,10 @@
+var myOtherArray = [ 
+  {
+    "first" : "John",
+    "last" : "Smith"
+  }, 
+  {
+    "first" : "Jane",
+    "last" : "Doe"
+  }
+];
