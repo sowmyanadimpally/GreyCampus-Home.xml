@@ -1,10 +1,27 @@
-var myOtherArray = [ 
+$fonts = '
+{
+ "kind": "webfonts#webfontList",
+ "items": [
   {
-    "first" : "John",
-    "last" : "Smith"
-  }, 
+   "kind": "webfonts#webfont",
+   "family": "Yesteryear",
+   "variants": [
+    "regular"
+   ],
+   "subsets": [
+    "latin"
+   ]
+  },
   {
-    "first" : "Jane",
-    "last" : "Doe"
+   "kind": "webfonts#webfont",
+   "family": "Zeyada",
+   "variants": [
+    "regular"
+   ],
+   "subsets": [
+    "latin"
+   ]
   }
-];
+]
+}
+';
