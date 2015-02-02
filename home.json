@@ -1,4 +1,4 @@
-$fonts = '
+
 {
  "kind": "webfonts#webfontList",
  "items": [
@@ -24,4 +24,4 @@ $fonts = '
   }
 ]
 }
-';
+
