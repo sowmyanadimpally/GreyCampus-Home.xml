@@ -13,6 +13,7 @@
          "course_category":"Course Category",
          "delivery_method":"Delivery Method",
          "city":"City",
+         "popular_online_workshops":"Popular Online Workshops",
          "instructions":"\u2022\tThis is a Mock test of Big Data. <\/br>\r\n\u2022\tThe complete test takes 10 minutes. <\/br>\r\n\u2022\tIt is recommended that you do not get disturbed during the test. So switch off your mobile phone. <\/br>\r\n\u2022\tPlease do not move away from the page without submitting the test. <\/br>\r\n",
          "solution":"",
          "negativemarking":"0.00"
